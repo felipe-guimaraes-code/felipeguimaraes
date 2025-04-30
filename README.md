@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-texto sobre mim
+Me chamo Felipe, tenho 19 anos e atualmente moro em Indaiatuba. Concluí o ensino técnico em Desenvolvimento de Sistemas na ETEC e atualmente curso Análise e Desenvolvimento de Sistemas. Sou entusiasta de tecnologia e estou sempre em busca de aprender e desenvolver novos projetos, que compartilho aqui no GitHub.
 
 
 ---
