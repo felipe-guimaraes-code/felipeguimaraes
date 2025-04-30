@@ -78,7 +78,7 @@ Me chamo Felipe, tenho 19 anos e atualmente moro em Indaiatuba. Concluí o ensin
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=felipeoliveira&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=felipeoliveira&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br" 
   />
 
 
