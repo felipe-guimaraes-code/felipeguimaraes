@@ -84,8 +84,8 @@ texto sobre mim
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeooliveira&theme=tokyonight&layout=compact&locale=pt-br" 
+      height="100" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeooliveira&theme=tokyonight&layout=compact&locale=pt-br&langs_count=3" 
   />
 
 </p>
