@@ -85,7 +85,7 @@ texto sobre mim
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeooliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeooliveira&theme=tokyonight&layout=compact&locale=pt-br" 
   />
 
 </p>
