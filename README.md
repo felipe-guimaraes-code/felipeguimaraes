@@ -28,11 +28,11 @@ texto sobre mim
 
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
 />
 <img 
     align="left" 
