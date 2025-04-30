@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe Guimarães
+# Felipe Guimarães
 
 **`Desenvolvedor`**
 
